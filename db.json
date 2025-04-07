@@ -2,7 +2,7 @@
   "userinfo": {
     "privacy": {
       "version": "1.0ubit",
-      "msg": "0",
+      "msg": "1",
       "isios": 0,
       "iosU": "fix bug",
       "Area": [
@@ -17,9 +17,9 @@
         {
           "key": "HK",
           "name": "1",
-          "value": "3",
+          "value": "https://ww",
           "code": "",
-          "valueinfo": "2",
+          "valueinfo": "w.kecoins.com/h5",
           "codeinfo": ""
         }
       ],
