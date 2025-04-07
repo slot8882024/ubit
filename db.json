@@ -1,5 +1,34 @@
 {
-"userinfo":["xh1","xh2"],
-  "name": "1",
-"versionmessage":"1"
+  "userinfo": {
+    "privacy": {
+      "version": "1.0ubit",
+      "msg": "1",
+      "isios": 0,
+      "iosU": "fix bug",
+      "Area": [
+        {
+          "key": "ls",
+          "name": "1",
+          "value": "https://ww",
+          "valueinfo": "w.baidu.com",
+          "code": "",
+          "codeinfo": ""
+        },
+        {
+          "key": "BD",
+          "name": "1",
+          "value": "",
+          "code": "",
+          "valueinfo": "",
+          "codeinfo": ""
+        }
+      ],
+      "Event": [
+        "test"
+      ],
+      "ID": [
+        "testid"
+      ]
+    }
+  }
 }
