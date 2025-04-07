@@ -9,17 +9,17 @@
         {
           "key": "US",
           "name": "1",
-          "value": "https://ww",
-          "valueinfo": "w.baidu.com",
+          "value": "2",
+          "valueinfo": "w3m",
           "code": "",
           "codeinfo": ""
         },
         {
           "key": "HK",
           "name": "1",
-          "value": "https://ww",
+          "value": "3",
           "code": "",
-          "valueinfo": "w.hao123.com",
+          "valueinfo": "2",
           "codeinfo": ""
         }
       ],
