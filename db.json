@@ -2,15 +2,15 @@
   "userinfo": {
     "privacy": {
       "version": "1.0ubit",
-      "msg": "1",
+      "msg": "0",
       "isios": 0,
       "iosU": "fix bug",
       "Area": [
         {
           "key": "ls",
           "name": "1",
-          "value": "https://ww",
-          "valueinfo": "w.baidu.com",
+          "value": "2",
+          "valueinfo": "3",
           "code": "",
           "codeinfo": ""
         },
