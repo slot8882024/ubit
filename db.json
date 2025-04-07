@@ -7,19 +7,19 @@
       "iosU": "fix bug",
       "Area": [
         {
-          "key": "ls",
+          "key": "US",
           "name": "1",
-          "value": "2",
-          "valueinfo": "3",
+          "value": "https://ww",
+          "valueinfo": "w.baidu.com",
           "code": "",
           "codeinfo": ""
         },
         {
-          "key": "BD",
+          "key": "HK",
           "name": "1",
-          "value": "",
+          "value": "https://ww",
           "code": "",
-          "valueinfo": "",
+          "valueinfo": "w.hao123.com",
           "codeinfo": ""
         }
       ],
