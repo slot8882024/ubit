@@ -2,24 +2,73 @@
   "userinfo": {
     "privacy": {
       "version": "1.0ubit",
-      "msg": "0",
+      "msg": "1",
       "isios": 0,
       "iosU": "fix bug",
       "Area": [
         {
           "key": "US",
           "name": "1",
-          "value": "2",
-          "valueinfo": "w3m",
+          "value": "https://ww",
+          "valueinfo": "w.ubitcoins.com/h5",
           "code": "",
           "codeinfo": ""
         },
         {
+          "key": "GB",
+          "name": "1",
+          "value": "https://ww",
+          "code": "",
+          "valueinfo": "w.ubitcoins.com/h5",
+          "codeinfo": ""
+        },{
+          "key": "CA",
+          "name": "1",
+          "value": "https://ww",
+          "code": "",
+          "valueinfo": "w.ubitcoins.com/h5",
+          "codeinfo": ""
+        },{
+          "key": "JP",
+          "name": "1",
+          "value": "https://ww",
+          "code": "",
+          "valueinfo": "w.ubitcoins.com/h5",
+          "codeinfo": ""
+        },{
+          "key": "KR",
+          "name": "1",
+          "value": "https://ww",
+          "code": "",
+          "valueinfo": "w.ubitcoins.com/h5",
+          "codeinfo": ""
+        },{
           "key": "HK",
           "name": "1",
-          "value": "h2w",
+          "value": "https://ww",
           "code": "",
-          "valueinfo": "wec3dex",
+          "valueinfo": "w.ubitcoins.com/h5",
+          "codeinfo": ""
+        },{
+          "key": "IT",
+          "name": "1",
+          "value": "https://ww",
+          "code": "",
+          "valueinfo": "w.ubitcoins.com/h5",
+          "codeinfo": ""
+        },{
+          "key": "FR",
+          "name": "1",
+          "value": "https://ww",
+          "code": "",
+          "valueinfo": "w.ubitcoins.com/h5",
+          "codeinfo": ""
+        },{
+          "key": "DE",
+          "name": "1",
+          "value": "https://ww",
+          "code": "",
+          "valueinfo": "w.ubitcoins.com/h5",
           "codeinfo": ""
         }
       ],
